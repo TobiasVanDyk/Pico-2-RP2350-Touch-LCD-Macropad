@@ -1,7 +1,6 @@
 # Pico 2 RP2350 Touch LCD Macropad
 
 <p align="left">
-<img src="images/pipc.png" height="260" /> 
 <img src="images/lcdC2.png" height="260" /> 
 <img src="images/macro.gif" height="260" /> 
 </p>
